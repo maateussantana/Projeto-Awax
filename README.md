@@ -1,2 +1,2 @@
 # Projeto Awax
- Projeto Awax do curso B7Web
+ Projeto Awax do curso B7Web responsivo 
